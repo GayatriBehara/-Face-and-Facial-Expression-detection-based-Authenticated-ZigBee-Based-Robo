@@ -1,2 +1,37 @@
-# -Face-recognition-and-Facial-Expression-detection-based-Authenticated-ZigBee-Based-Robo
-          In this project a robot that can be operated by authorized person or operator is implemented. For this purpose we use a face recognition system which is capable of identifying the authorized person which allows him to command and operate it. The face recognition system consists of a web based camera which captures the image of human and this image is processed in MATLAB software. After processing the image it generates the activation code for the robot to be operated.    The hardware system is based on the ATMEL microcontroller and an Zigbee module. The system provides continuous visual monitoring through the small camera attached to the mobile robot, sending data to the control unit when necessary. Remote testing is done on the mobile robot for search and rescue missions via an established radio frequency (RF) communication using DIGI XBee RF module. Intelligent mobile robots and cooperative multi agent robotic systems can be very efficient tools to speed up search and research operations in remote areas. This prototype robot is capable of moving across area and remotely guided by a person who is directed and navigated using remote camera and computer.. Mobile robots using Zigbee protocol for the purpose of navigation using personal computer, implemented with wireless vision system for remote monitoring and control. Its main feature is its use of the Zigbee protocol as the communication medium between the mobile robot and the PC controller.             The robot can be monitored only by authorized persons who are previously present in the database for security reasons. For this we utilize the Face recognition technology. It is a system which can automatically identify and verify the individuals face. Thus face and emotion recognition offers one of the most natural and less obtrusive bio metric measures of identification
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/GayatriBehara/-Face-recognition-and-Facial-Expression-detection-based-Authenticated-ZigBee-Based-Robo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GayatriBehara/-Face-recognition-and-Facial-Expression-detection-based-Authenticated-ZigBee-Based-Robo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
