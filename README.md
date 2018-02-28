@@ -1,4 +1,5 @@
-          In this project a robot that can be operated by authorized person or operator is implemented.For this purpose we use a face
+
+  In this project a robot that can be operated by authorized person or operator is implemented.For this purpose we use a face
 recognition system which is capable of identifying the authorized person which allows him to command and operate it.
 The face recognition system consists of a web based camera which captures the image of human and this image is processed in MATLAB
 software.After processing the image it generates the activation code for the robot to be operated.   
